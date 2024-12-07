@@ -100,5 +100,5 @@ The application will be running at http://127.0.0.1:8000/.
 
 - **Permissions**: Ensure that the user roles (riders and drivers) are correctly assigned and managed using Django's built-in user authentication system.
 - **Admin Panel**: Use the Django admin panel to manage users, rides, and their statuses by navigating to `http://127.0.0.1:8000/admin/`.
-=======
+
 
