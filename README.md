@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ride Sharing Django Project
 
 This is a Django project for a ride-sharing application where users can sign up as either a rider or a driver, create and manage ride requests, and update ride statuses. The project includes two main apps: **app_accounts** and **app_rides**.
@@ -99,3 +100,6 @@ The application will be running at http://127.0.0.1:8000/.
 
 - **Permissions**: Ensure that the user roles (riders and drivers) are correctly assigned and managed using Django's built-in user authentication system.
 - **Admin Panel**: Use the Django admin panel to manage users, rides, and their statuses by navigating to `http://127.0.0.1:8000/admin/`.
+=======
+# cab_connect
+>>>>>>> dca931835d92a3c7d829a5116469225a3296dd70
